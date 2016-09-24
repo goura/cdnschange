@@ -2,7 +2,9 @@
 The missing CLI tool to change an A record on Google Cloud DNS
 
 ### Installing
+```
 go get github.com/goura/cdnschange
+```
 
 
 ### Usage
